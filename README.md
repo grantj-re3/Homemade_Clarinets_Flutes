@@ -89,8 +89,10 @@ and [sample sound](https://www.oocities.org/tpe123/folkurban/clarinet/clarinet.m
 ## Tuning
 
 - [Doug Tipple | Making a Simple Irish Flute](http://tippleflutes.com/making-a-simple-irish-flute/);
-  for two octave tuning see the section starting with *Final Adjustments*
-- Make and Tune PVC Pennywhistle Accurately in Two Octaves [video](https://www.youtube.com/watch?v=dSvAKPJ2FmY); see 8m44s - 13m34s
+  for two octave tuning see the section starting with *Final Adjustments*; to sharpen the higher octave note,
+  *undercut the embouchure side of the finger holes... without changing the top view appearance*
+- Make and Tune PVC Pennywhistle Accurately in Two Octaves [video](https://www.youtube.com/watch?v=dSvAKPJ2FmY);
+  see 8m44s - 13m34s; note that this method is *very* different to Doug Tipple's method above
 - How to Tune a DIY PVC or Bamboo Flute - Part 1 [video](https://www.youtube.com/watch?v=WdysdL7NU6Y&feature=youtu.be)
 - How to Tune a DIY PVC or Bamboo Flute - Part 2 [video](https://www.youtube.com/watch?v=LHYoks_xv_o&feature=youtu.be)
 
