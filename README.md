@@ -23,7 +23,7 @@ difficult for people like me
 - [Linsey Pollak | Videos | Mostly playing his instruments](https://www.linseypollak.com/videos/)
 - Linsey Pollak | 3 Carrot Cylisax [video](https://www.youtube.com/watch?v=2CSewbHlfCg):
   construction demo with carrot threading tool
-- [Xavi bufa | Xavi Lozano | Tubes of the World](http://www.xavibufa.com/)
+- Xavi Lozano | Tubes of the World [video](http://www.xavibufa.com/)
 
 
 ## Clarinet and saxophone-like instruments
@@ -74,10 +74,10 @@ and [sample sound](https://www.oocities.org/tpe123/folkurban/clarinet/clarinet.m
 - [Doug Tipple | Making a Simple Irish Flute](http://tippleflutes.com/making-a-simple-irish-flute/)
   * Cutting the embouchure
   * tuning
-  * referenced by [How to Make a Flute out of PVC Pipe](https://dgsmith.weebly.com/blog/how-to-make-a-flute-out-of-pvc-pipe-mus-160-post)
+  * referenced by [How to Make a Flute out of PVC Pipe](https://dgsmith.weebly.com/blog/how-to-make-a-flute-out-of-pvc-pipe-mus-160-post) (with [Irish Flute 6 hole finging chart](https://dgsmith.weebly.com/uploads/4/6/4/9/46492339/920738575.jpg))
 - How To Easily Make a PVC Flute [video](https://www.youtube.com/watch?v=EW1Xls112Kw)
-- [Linsey Pollak | Three flutes - with finger chart](https://www.linseypollak.com/instruments/)
-- Making Simple PVC Flutes [here](https://www.instructables.com/id/Making-Simple-PVC-Flutes/) and [here](http://www.thewidgetforge.com/projects/flute/howtoflute.html) which includes:
+- [Linsey Pollak | Three flutes - with fingering chart](https://www.linseypollak.com/instruments/)
+- Making Simple PVC Flutes [here](https://www.instructables.com/id/Making-Simple-PVC-Flutes/) and [here](http://www.thewidgetforge.com/projects/flute/index.html) which includes:
   * Making the Embouchure hole
   * The Cork / Rubber Stopper / etc.
   * Tuning Slide (i.e. head piece separate from the rest of the body)
@@ -90,7 +90,7 @@ and [sample sound](https://www.oocities.org/tpe123/folkurban/clarinet/clarinet.m
 
 - [Doug Tipple | Making a Simple Irish Flute](http://tippleflutes.com/making-a-simple-irish-flute/);
   for two octave tuning see the section starting with *Final Adjustments*
-- Make and Tune PVC Pennywhistle Accurately in Two Octaves [video](https://www.youtube.com/watch?v=XNO97-mPP8U&feature=emb_rel_end); see 8m44s - 13m34s
+- Make and Tune PVC Pennywhistle Accurately in Two Octaves [video](https://www.youtube.com/watch?v=dSvAKPJ2FmY); see 8m44s - 13m34s
 - How to Tune a DIY PVC or Bamboo Flute - Part 1 [video](https://www.youtube.com/watch?v=WdysdL7NU6Y&feature=youtu.be)
 - How to Tune a DIY PVC or Bamboo Flute - Part 2 [video](https://www.youtube.com/watch?v=LHYoks_xv_o&feature=youtu.be)
 
@@ -98,7 +98,7 @@ If all other things remain constant, the following will result in a sharper/high
 
 - Shortening the length of the pipe
 - Narrowing the pipe bore
-- Positioning the finger hole closer to the head (or mouthpiece or embouchure hole)
+- Positioning the finger hole closer to the head (or mouthpiece or embouchure hole or blow hole)
 - Increasing the size/diameter of the finger hole
 - Increasing the area of the embouchure hole
 - Increasing the temperature of the pipe (by playing longer or blowing into the pipe beforehand)
@@ -213,7 +213,7 @@ https://sourceforge.net/projects/twjcalc/files/
 
 #### Note vs Frequency (Hz) charts:
 
-- Middle C = C4; the note below it is B3.
+- Middle C is C4; the note below it is B3.
 - [Tuning - Frequencies for equal-tempered scale](https://pages.mtu.edu/~suits/notefreqs.html)
 - [Scientific pitch notation](https://en.wikipedia.org/wiki/Scientific_pitch_notation)
 - [Musical Note to Frequency Conversion Chart](https://www.audiology.org/sites/default/files/ChasinConversionChart.pdf); claims the note below middle C is B4
