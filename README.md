@@ -93,8 +93,7 @@ and [sample sound](https://www.oocities.org/tpe123/folkurban/clarinet/clarinet.m
   *undercut the embouchure side of the finger holes... without changing the top view appearance*
 - Make and Tune PVC Pennywhistle Accurately in Two Octaves [video](https://www.youtube.com/watch?v=dSvAKPJ2FmY);
   see 8m44s - 13m34s; note that this method is *very* different to Doug Tipple's method above
-- How to Tune a DIY PVC or Bamboo Flute - Part 1 [video](https://www.youtube.com/watch?v=WdysdL7NU6Y&feature=youtu.be)
-- How to Tune a DIY PVC or Bamboo Flute - Part 2 [video](https://www.youtube.com/watch?v=LHYoks_xv_o&feature=youtu.be)
+- How to Tune a DIY PVC or Bamboo Flute - [Part 1 video](https://www.youtube.com/watch?v=WdysdL7NU6Y&feature=youtu.be) & [Part 2 video](https://www.youtube.com/watch?v=LHYoks_xv_o&feature=youtu.be)
 
 If all other things remain constant, the following will result in a sharper/higher pitch:
 
@@ -130,11 +129,11 @@ Other factors include:
 
 ## Books
 
-- Make your own Mr Curly & Other Clarinets (AU$5 - $10):
+- Make your own Mr Curly & Other Clarinets (AU$5 - $10)
   * [purchase](https://www.linseypollak.com/product/make-your-own-mr-curly-other-clarinets/)
   * [intro](https://www.linseypollak.com/make-your-own-mr-curly-other-clarinets-ebook-pdf-17mb/)
   * [video](https://www.youtube.com/watch?v=XNO97-mPP8U&feature=emb_rel_end)
-- Air Columns and Toneholes: Principles for Wind Instrument Design by Bart Hopkin:
+- Air Columns and Toneholes: Principles for Wind Instrument Design by Bart Hopkin
   * [author's description](http://barthopkin.com/books-cds/air-columns-and-toneholes-principles-for-wind-instrument-design/)
   * [author's books](http://barthopkin.com/books-cds/)
   * [publisher's description](https://www.shakuhachi.com/CM-Hopkin-ACTH.html)
