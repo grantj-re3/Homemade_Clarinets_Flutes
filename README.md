@@ -7,20 +7,21 @@ materials such as carrots, straws, paper and feather dusters!
 
 There is a lot of great info about constructing homemade flutes
 written by people in the USA. Although the principles hold true
-anywhere, sourcing the PVC pipe is difficult for people like me
+anywhere, sourcing the PVC pipe (with US dimensions) can be
+difficult for people like me
 (in Australia). So some options include:
 - instructions by Linsey Pollak (below) who sources PVC pipe or
-  poly-pipe in Australia
+  poly-pipe with Australian (often metric) dimensions
 - adapting the dimensions of your flute (or clarinet?) using one
   of the calculators below
 
 
 ## Amusing
 
-- [Linsey Pollak | Carrot clarinet | TEDxSydney](https://www.youtube.com/watch?v=BISrGwN-yH4)
-- [Linsey Pollak | Carrot clarinet making - with measurements](https://www.youtube.com/watch?v=zrme04RIsE8)
+- Linsey Pollak | Carrot clarinet | TEDxSydney [video](https://www.youtube.com/watch?v=BISrGwN-yH4)
+- Linsey Pollak | Carrot clarinet making - with measurements [video](https://www.youtube.com/watch?v=zrme04RIsE8)
 - [Linsey Pollak | Videos | Mostly playing his instruments](https://www.linseypollak.com/videos/)
-- [Linsey Pollak | 3 Carrot Cylisax](https://www.youtube.com/watch?v=2CSewbHlfCg):
+- Linsey Pollak | 3 Carrot Cylisax [video](https://www.youtube.com/watch?v=2CSewbHlfCg):
   construction demo with carrot threading tool
 - [Xavi bufa | Xavi Lozano | Tubes of the World](http://www.xavibufa.com/)
 
@@ -42,11 +43,11 @@ https://www.linseypollak.com/instruments/ discusses how to make a variety of win
 
 He has also designed a serious wooden instrument for purchase, the Cylisax.
 - [pic & description](https://www.linseypollak.com/instruments/)
-- [Cylisax Mk9 made from Budgeroo - video](https://www.youtube.com/watch?v=srcp7JK5zJU): audio recording with still images
-- [Cylisax Mk8 video](https://www.youtube.com/watch?v=1B5fTwSC4QQ)
-- [Cylisax Mk7 video](https://www.youtube.com/watch?v=5P-4FIP2aZM)
-- [Cylisax Mk5 video](https://www.youtube.com/watch?v=N2T2AgeALm8)
-- [Cylisax Mk3 vs Soprano Saxophone video](https://www.youtube.com/watch?v=6wa0mPEmJI0): made from 1/2" irrigation pipe
+- Cylisax Mk9 made from Budgeroo - [video](https://www.youtube.com/watch?v=srcp7JK5zJU): audio recording with still images
+- Cylisax Mk8 [video](https://www.youtube.com/watch?v=1B5fTwSC4QQ)
+- Cylisax Mk7 [video](https://www.youtube.com/watch?v=5P-4FIP2aZM)
+- Cylisax Mk5 [video](https://www.youtube.com/watch?v=N2T2AgeALm8)
+- Cylisax Mk3 vs Soprano Saxophone [video](https://www.youtube.com/watch?v=6wa0mPEmJI0): made from 1/2" irrigation pipe
 
 ### Others
 
@@ -74,7 +75,7 @@ and [sample sound](https://www.oocities.org/tpe123/folkurban/clarinet/clarinet.m
   * Cutting the embouchure
   * tuning
   * referenced by [How to Make a Flute out of PVC Pipe](https://dgsmith.weebly.com/blog/how-to-make-a-flute-out-of-pvc-pipe-mus-160-post)
-- [How To Easily Make a PVC Flute](https://www.youtube.com/watch?v=EW1Xls112Kw)
+- How To Easily Make a PVC Flute [video](https://www.youtube.com/watch?v=EW1Xls112Kw)
 - [Linsey Pollak | Three flutes - with finger chart](https://www.linseypollak.com/instruments/)
 - Making Simple PVC Flutes [here](https://www.instructables.com/id/Making-Simple-PVC-Flutes/) and [here](http://www.thewidgetforge.com/projects/flute/howtoflute.html) which includes:
   * Making the Embouchure hole
@@ -84,12 +85,14 @@ and [sample sound](https://www.oocities.org/tpe123/folkurban/clarinet/clarinet.m
   * link to [How to Flute: A Beginner’s Guide to Playing the Flute](http://www.thewidgetforge.com/projects/flute/howtoflute.html)
   * link to [generic fingering chart - without note names](http://www.thewidgetforge.com/projects/flute/images/flutechart.bmp)
 
+
 ## Tuning
 
-- [Make and Tune PVC Pennywhistle Accurately in Two Octaves](https://www.youtube.com/watch?v=XNO97-mPP8U&feature=emb_rel_end); see 8m44s - 13m34s
-- [Doug Tipple | Making a Simple Irish Flute](http://tippleflutes.com/making-a-simple-irish-flute/) - for tuning see the section starting with *Final Adjustments*
-- [How to Tune a DIY PVC or Bamboo Flute - Part 1](https://www.youtube.com/watch?v=WdysdL7NU6Y&feature=youtu.be)
-- [How to Tune a DIY PVC or Bamboo Flute - Part 2](https://www.youtube.com/watch?v=LHYoks_xv_o&feature=youtu.be)
+- [Doug Tipple | Making a Simple Irish Flute](http://tippleflutes.com/making-a-simple-irish-flute/);
+  for two octave tuning see the section starting with *Final Adjustments*
+- Make and Tune PVC Pennywhistle Accurately in Two Octaves [video](https://www.youtube.com/watch?v=XNO97-mPP8U&feature=emb_rel_end); see 8m44s - 13m34s
+- How to Tune a DIY PVC or Bamboo Flute - Part 1 [video](https://www.youtube.com/watch?v=WdysdL7NU6Y&feature=youtu.be)
+- How to Tune a DIY PVC or Bamboo Flute - Part 2 [video](https://www.youtube.com/watch?v=LHYoks_xv_o&feature=youtu.be)
 
 If all other things remain constant, the following will result in a sharper/higher pitch:
 
@@ -97,11 +100,12 @@ If all other things remain constant, the following will result in a sharper/high
 - Narrowing the pipe bore
 - Positioning the finger hole closer to the head (or mouthpiece or embouchure hole)
 - Increasing the size/diameter of the finger hole
-- Increasing the temperature of the pipe (by playing longer or blowing into the pipe)
+- Increasing the area of the embouchure hole
+- Increasing the temperature of the pipe (by playing longer or blowing into the pipe beforehand)
 
 Other factors include:
 - Pipe wall thickness
-- Embouchure hole position and size (& plug position?)
+- Plug position?
 - Position of other (open) finger holes
 
 
@@ -134,7 +138,7 @@ Other factors include:
   * [publisher's description](https://www.shakuhachi.com/CM-Hopkin-ACTH.html)
   * [publisher's price list](https://www.shakuhachi.com/O-PL-CraftMan.html)
   * [publisher's order form](https://www.shakuhachi.com/O-OrderInfo.html)
-  * referenced by [DIY Flute - Finger Hole Marking](https://www.youtube.com/watch?v=E7dLyOutCzY)
+  * referenced by DIY Flute - Finger Hole Marking [video](https://www.youtube.com/watch?v=E7dLyOutCzY)
 - SIMPLE FLUTES: A Guide to Flute Making and Playing by Mark Shepard
   * [author's page](http://www.markshep.com/flute/books/Simple.html)
   * [publisher's page](https://www.shakuhachi.com/CM-Shepard-SF.html)
@@ -143,7 +147,7 @@ Other factors include:
   * [author's page](http://www.markshep.com/flute/books/Flutecraft.html)
   * [publisher's page](https://www.shakuhachi.com/CM-Shepard-FC.html)
   * [publisher's price list](https://www.shakuhachi.com/O-PL-CraftMan.html#FC)
-- [Flute Craft Manuals & Books - price list](https://www.shakuhachi.com/O-PL-CraftMan.html)
+- [Shakuhachi Flutes | Flute Craft Manuals & Books - price list](https://www.shakuhachi.com/O-PL-CraftMan.html)
 - [Mark Shepard | Good Books for Getting Into Flute Playing and Making](http://www.markshep.com/flute/bookshelf.html)
 
 
@@ -202,14 +206,15 @@ Features:
   * know the plug position
   * can blow/play the pipe (without finger holes) to give the base note
 
-#### Tin Whistle Calculator (in Java; downloadable)
+#### Tin Whistle Calculator
 
 Downloadable Java app:
 https://sourceforge.net/projects/twjcalc/files/
 
 #### Note vs Frequency (Hz) charts:
 
-- [Musical Note to Frequency Conversion Chart](https://www.audiology.org/sites/default/files/ChasinConversionChart.pdf)
+- Middle C = C4; the note below it is B3.
 - [Tuning - Frequencies for equal-tempered scale](https://pages.mtu.edu/~suits/notefreqs.html)
-- Middle C = C4
+- [Scientific pitch notation](https://en.wikipedia.org/wiki/Scientific_pitch_notation)
+- [Musical Note to Frequency Conversion Chart](https://www.audiology.org/sites/default/files/ChasinConversionChart.pdf); claims the note below middle C is B4
 
