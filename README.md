@@ -34,9 +34,12 @@ Australian instrument maker and musician.
 - He provides measurements and other construction info
 - Almost all info is free (or very cheap)
 - Most of his materials are easily purchased in Australia
+- For clarinets, his designs often require that you have an alto sax mouthpiece
 
 https://www.linseypollak.com/instruments/ discusses how to make a variety of wind instruments, including:
-- [clarini](https://www.linseypollak.com/pdfs/clarini.pdf): see him playing it [here](https://www.youtube.com/watch?v=pxxHgmZvk5c) [*worked well for me*]
+- [clarini](https://www.linseypollak.com/pdfs/clarini.pdf): see him playing it
+  [here](https://www.youtube.com/watch?v=pxxHgmZvk5c) [*worked well for me; decent
+  sound for notes in the major scale; limited range of 9 notes (F4-G5?)*]
 - carrot clarinet
 - cylisax mk6 (cylindrical bore instrument which behaves like a saxophone in the upper register) made from polypipe ([video of similar instrument](https://www.youtube.com/watch?v=J0Ka4M_CvVY))
 - several flutes (see [Flute section](#flutes))
@@ -54,7 +57,7 @@ He has also designed a serious wooden instrument for purchase, the Cylisax.
 [The $5.00 Clarinet](https://www.oocities.org/tpe123/folkurban/clarinet/index.html)
 with [Closing Notes](https://www.oocities.org/tpe123/folkurban/clarinet/outro.html)
 and [sample sound](https://www.oocities.org/tpe123/folkurban/clarinet/clarinet.mp3)
-[*but did not work well for me*]
+[*but did not work well for me; very quiet 2nd-lowest note; gave up; mouthpiece worked ok on real alto sax for about 1.5 octaves! :laughing:*]
 
 [Dan Bruner | My Musical Instrument Projects](http://www.geocities.ws/danielbruner/home.html): excellent detail but no sample sounds
 
@@ -62,7 +65,7 @@ and [sample sound](https://www.oocities.org/tpe123/folkurban/clarinet/clarinet.m
 * An Easy Way to Make Barrel Joints to Connect Mouth pieces to Tubes
 * Fabricating Your Own Mouthpiece
 * Register Holes
-* Suitable Plastics including toxicity (for mouthpieces)
+* Suitable Plastics including toxicity info (for mouthpieces)
 
 ## Flutes
 
@@ -72,11 +75,14 @@ and [sample sound](https://www.oocities.org/tpe123/folkurban/clarinet/clarinet.m
   * [The Plumber’s Pipe | Player’s Manual](http://www.markshep.com/flute/Pipe.pdf)
   * [Getting a Sound on the Flute | How to Blow Your First Note](http://www.markshep.com/flute/Sound.html)
 - [Doug Tipple | Making a Simple Irish Flute](http://tippleflutes.com/making-a-simple-irish-flute/)
-  * Cutting the embouchure
+  * cutting the embouchure
+  * position of the stopper/plug/cork
   * tuning
-  * referenced by [How to Make a Flute out of PVC Pipe](https://dgsmith.weebly.com/blog/how-to-make-a-flute-out-of-pvc-pipe-mus-160-post) (with [Irish Flute 6 hole finging chart](https://dgsmith.weebly.com/uploads/4/6/4/9/46492339/920738575.jpg))
+  * referenced by [How to Make a Flute out of PVC Pipe](https://dgsmith.weebly.com/blog/how-to-make-a-flute-out-of-pvc-pipe-mus-160-post)
+    (with [Irish Flute 6 hole finging chart](https://dgsmith.weebly.com/uploads/4/6/4/9/46492339/920738575.jpg))
 - How To Easily Make a PVC Flute [video](https://www.youtube.com/watch?v=EW1Xls112Kw)
 - [Linsey Pollak | Three flutes - with fingering chart](https://www.linseypollak.com/instruments/)
+  (near the bottom of the page)
 - Making Simple PVC Flutes [here](https://www.instructables.com/id/Making-Simple-PVC-Flutes/) and [here](http://www.thewidgetforge.com/projects/flute/index.html) which includes:
   * Making the Embouchure hole
   * The Cork / Rubber Stopper / etc.
@@ -109,6 +115,10 @@ Other factors include:
 - Plug position?
 - Position of other (open) finger holes
 
+Note: There is no need for the finger holes to be aligned along the length of the pipe.
+This means for example that you can place the finger holes for your little finger (pinky)
+*off to the side* so they can be covered more easily.
+
 
 ## Theory and practice
 
@@ -129,25 +139,38 @@ Other factors include:
 
 ## Books
 
+Many of these books are available from several book stores - not
+only the one(s) I've listed.
+
 - Make your own Mr Curly & Other Clarinets (AU$5 - $10)
   * [purchase](https://www.linseypollak.com/product/make-your-own-mr-curly-other-clarinets/)
   * [intro](https://www.linseypollak.com/make-your-own-mr-curly-other-clarinets-ebook-pdf-17mb/)
   * [video](https://www.youtube.com/watch?v=XNO97-mPP8U&feature=emb_rel_end)
 - Air Columns and Toneholes: Principles for Wind Instrument Design by Bart Hopkin
-  * [author's description](http://barthopkin.com/books-cds/air-columns-and-toneholes-principles-for-wind-instrument-design/)
+  * [author's page](http://barthopkin.com/books-cds/air-columns-and-toneholes-principles-for-wind-instrument-design/)
   * [author's books](http://barthopkin.com/books-cds/)
-  * [publisher's description](https://www.shakuhachi.com/CM-Hopkin-ACTH.html)
-  * [publisher's price list](https://www.shakuhachi.com/O-PL-CraftMan.html)
-  * [publisher's order form](https://www.shakuhachi.com/O-OrderInfo.html)
+  * [book store's page](https://www.shakuhachi.com/CM-Hopkin-ACTH.html)
+  * [book store's price list](https://www.shakuhachi.com/O-PL-CraftMan.html)
+  * [book store's order form](https://www.shakuhachi.com/O-OrderInfo.html)
   * referenced by DIY Flute - Finger Hole Marking [video](https://www.youtube.com/watch?v=E7dLyOutCzY)
 - SIMPLE FLUTES: A Guide to Flute Making and Playing by Mark Shepard
   * [author's page](http://www.markshep.com/flute/books/Simple.html)
-  * [publisher's page](https://www.shakuhachi.com/CM-Shepard-SF.html)
-  * [publisher's price list](https://www.shakuhachi.com/O-PL-CraftMan.html#SF)
+  * [book store's page](https://www.shakuhachi.com/CM-Shepard-SF.html)
+  * [book store's price list](https://www.shakuhachi.com/O-PL-CraftMan.html#SF)
+
+Also:
+- Musical Instrument Design by Bart Hopkin
+  * [author's page](http://barthopkin.com/books-cds/musical-instrument-design-2/)
+  * [author's books](http://barthopkin.com/books-cds/) - same as above
+  * [book store's page](https://www.shakuhachi.com/CM-Hopkin-MID.html)
+- Making Musical Instruments with Kids: 67 Easy Projects for Adults Working with Children [Book with audio CD] by Bart Hopkin
+  * [author's page](http://barthopkin.com/books-cds/making-musical-instruments-with-kids/)
+  * [author's books](http://barthopkin.com/books-cds/) - same as above
+  * [book store's page](https://www.shakuhachi.com/CM-Hopkin-MMIWK.html)
 - FLUTECRAFT: An Artisan's Guide to Bamboo Flutemaking by Mark Shepard
   * [author's page](http://www.markshep.com/flute/books/Flutecraft.html)
-  * [publisher's page](https://www.shakuhachi.com/CM-Shepard-FC.html)
-  * [publisher's price list](https://www.shakuhachi.com/O-PL-CraftMan.html#FC)
+  * [book store's page](https://www.shakuhachi.com/CM-Shepard-FC.html)
+  * [book store's price list](https://www.shakuhachi.com/O-PL-CraftMan.html#FC)
 - [Shakuhachi Flutes | Flute Craft Manuals & Books - price list](https://www.shakuhachi.com/O-PL-CraftMan.html)
 - [Mark Shepard | Good Books for Getting Into Flute Playing and Making](http://www.markshep.com/flute/bookshelf.html)
 
